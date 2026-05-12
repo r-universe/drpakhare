@@ -5,3 +5,6 @@
 [submodule "ParCC"]
 	path = ParCC
 	url = https://github.com/drpakhare/parcc
+[submodule "stepssurvey"]
+	path = stepssurvey
+	url = https://github.com/drpakhare/stepssurvey
